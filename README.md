@@ -1,6 +1,6 @@
 # Site Organo
 ##  Alura curso: React: desenvolvendo com JavaScript
-#### Vercel Pages: 
+#### Vercel Pages: https://organo-v1-0.vercel.app/
 
 # Getting Started with Create React App
 
